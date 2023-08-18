@@ -14,3 +14,5 @@ Sample website with plenty of files for demos
 Need to add more here later 
 
 ## How to contribute
+
+Work hard and also work smart
