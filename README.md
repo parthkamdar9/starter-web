@@ -11,8 +11,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Need to add more here later 
-
+Need to add more here later, execution is very important and so is consistency
+ 
 ## How to contribute
 
 Work hard and also work smart
