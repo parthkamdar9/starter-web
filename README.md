@@ -16,3 +16,7 @@ Need to add more here later, execution is very important and so is consistency
 ## How to contribute
 
 Work hard and also work smart
+
+### Copyright
+
+2023 Git.Training
