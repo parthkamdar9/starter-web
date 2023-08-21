@@ -1,6 +1,6 @@
 # Starter Web Project
 
-Starter sample website. Adding some more text.
+Starter sample website. Adding some more text. Expanding from newbranch.
 
 ## Introduction
 This repository is for showing how Git and GitHub work together
